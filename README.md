@@ -5,6 +5,7 @@ My name is **Matt Pretel**. My backgrounds are in fin-tech, marketing and e-comm
  
 
 Personal Strengths: Complex problem solving, organization, and keeping a positive outlook. 
+
 Personal Weaknesses: Working late at night and overlooking smaller issues at times.
 
 
