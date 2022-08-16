@@ -1,6 +1,5 @@
  ## Hello World!
 
-### About Me
 My name is **Matt Pretel**. My backgrounds are in fin-tech, marketing and e-commerce. My career goals are to make a substansial positive impact in the world of Web3. I entered the fin-tech realm because I have always been to learn about the technologies that run the world of finance. I have learned the basics of many technologies and have become advanced at many as well. While smart contracts / solidity is my are area of interest, I also enjoy working with datasets. Vizualizing and analyzing datasets for decision makers is also an interest of mine professionally.
  
 
